@@ -5,8 +5,7 @@ API Security Risk Analysis (Read-Only Assessment)
 ## Objective  
 This project focuses on performing a read-only API security risk analysis of a public test API to identify common API security weaknesses and provide remediation recommendations.
 
-## API Tested  
-Base URL: https://jsonplaceholder.typicode.com  
+## API Tested   
 
 Endpoints analyzed:
 - /users
